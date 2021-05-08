@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1620371064 source:c:\users\joyfred\documents\package_dsa\flightdetails_impl.cpp
+	<iostream>
+	"flightdetails.h"
+	<string>
+
+1620371083 c:\users\joyfred\documents\package_dsa\flightdetails.h
+	<string>
+
+1620366439 source:c:\users\joyfred\documents\package_dsa\main.cpp
+	<iostream>
+	"planner.h"
+
+1618152200 c:\users\joyfred\documents\package_dsa\vector.h
+	<iostream>
+
+1618640582 c:\users\joyfred\documents\package_dsa\node.h
+
+1618640504 c:\users\joyfred\documents\package_dsa\linkedlist.h
+	"node.h"
+	"flightdetails.h"
+	<iostream>
+
+1618594346 c:\users\joyfred\documents\package_dsa\stack.h
+	"linkedlist.h"
+	"node.h"
+	"flightdetails.h"
+
+1618643807 c:\users\joyfred\documents\package_dsa\adjacencylist.h
+	"linkedlist.h"
+	"node.h"
+	"flightdetails.h"
+
+1620370235 source:c:\users\joyfred\documents\package_dsa\flightsortplan_impl.cpp
+	"flightsortplan.h"
+	<iostream>
+
+1618294055 c:\users\joyfred\documents\package_dsa\flightsortplan.h
+	<string>
+
+1620363940 source:c:\users\joyfred\documents\package_dsa\route_impl.cpp
+	"route.h"
+	<iomanip>
+	<fstream>
+
+1618659534 c:\users\joyfred\documents\package_dsa\route.h
+	"vector.h"
+	<string>
+	<fstream>
+
+1620377205 source:c:\users\joyfred\documents\package_dsa\planner_impl.cpp
+	"planner.h"
+	"adjacencylist.h"
+	"route.h"
+	"flightdetails.h"
+	"flightsortplan.h"
+	"linkedlist.h"
+	"vector.h"
+	"stack.h"
+	"node.h"
+	<iostream>
+	<string>
+	<cstdlib>
+
+1620371384 c:\users\joyfred\documents\package_dsa\planner.h
+	"linkedlist.h"
+	"adjacencylist.h"
+	"route.h"
+	"flightdetails.h"
+	"flightsortplan.h"
+	"vector.h"
+	"stack.h"
+	<fstream>
+
