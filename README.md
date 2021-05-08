@@ -8,7 +8,7 @@ PACKAGE ABSTRACT :
 This project enables the user to find flights when flying from a city to another. If a person wishes to fly from one city to another, he/she can use this project to find the feasible routes. The routes can be sorted by time /duration of the course of flight or based on the total fare for flying from the origin to destination.
 
 Implementation:
-The primary data structure that is used in this project is a graph with all of the cities as the vertices/nodes and the flight from one city to another as an edge. The graph is implemented as an adjacency list (linked list of linked lists). For searching the routes an iterative backtracking is done with the help of a stack.All of the basic data structures that are needed for the implementation of the above program such as a vector, linked list, stack, etc., has been 
+The primary data structure that is used in this project is a graph with all of the cities as the vertices/nodes and the flight from one city to another as an edge. The graph is implemented as an adjacency list (linked list of linked lists). For searching the routes an iterative backtracking is done with the help of a stack.All of the basic data structures that are needed for the implementation of the program such as a vector, linked list, stack, etc., has been 
 implemented as well.
 
 Working:
