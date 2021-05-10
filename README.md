@@ -15,5 +15,5 @@ Working:
 All of the flight details (origin, destination, fare, duration) have been uploaded in a file, from which the graph is constructed every time the program is run.The program then asks the user to enter origin and destination. Then the possible routes are searched and the program presents the top search results. The sorting factor (time/ fare) can be decided by the user and the user can also control how many routes he/she wishes to have a look at.
 
 Team members:
-1. Jersha Heartly X 20PW13
-2. Tamjid L 20PW38
+1. Jersha Heartly X
+2. Tamjid L
